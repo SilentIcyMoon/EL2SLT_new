@@ -58,7 +58,7 @@ function start_experiment() {
         method_paths.push(wav_dir + "set" + set_num + "/toda_target.list");
         method_paths.push(wav_dir + "set" + set_num + "/toda_M1.list");
         method_paths.push(wav_dir + "set" + set_num + "/toda_M2.list");
-        method_paths.push(wav_dir + "set" + set_num + "/todabaseline.list");
+        method_paths.push(wav_dir + "set" + set_num + "/toda_baseline.list");
     }
     /*
         end
