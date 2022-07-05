@@ -123,7 +123,7 @@ function evalCheck() {
         }
     }
     else {
-        eval[c - 1].checked = true;
+        eval[5 - c].checked = true;
     }
 }
 
